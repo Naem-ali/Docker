@@ -1,3 +1,4 @@
+Docker Registry:
 
 Plain HTTP Private Docker Registry over Cli to start registry container,
 
