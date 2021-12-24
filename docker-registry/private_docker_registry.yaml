@@ -13,3 +13,5 @@ services:
 
 volumes:
   docker-registry-data: {}
+
+  ##
